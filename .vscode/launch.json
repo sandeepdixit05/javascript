@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/pluralsight/fundamentals/objects.js"
+            "program": "${workspaceFolder}/pluralsight/fundamentals/classes.js"
         }
     ]
 }
