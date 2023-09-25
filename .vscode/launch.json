@@ -11,7 +11,9 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/pluralsight/fundamentals/number-formatting.js"
+            // "program": "${workspaceFolder}/pluralsight/fundamentals/number-formatting.js"
+            "console": "integratedTerminal",
+            "program":"${file}"
         }
     ]
 }
